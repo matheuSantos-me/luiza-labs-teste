@@ -5,8 +5,6 @@ import Logo from "../../assets/logo.svg";
 import "./styles.css";
 
 export const HeaderComponent = () => {
-  // const navigate = useNavigate();
-
   return (
     <header className="container-header">
       <a href="/">
